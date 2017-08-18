@@ -1,5 +1,5 @@
 {
-  "name": "getport",
+  "name": "nextport",
   "version": "1.0.0",
   "description": "get the next free port",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hobbyquaker/getport.git"
+    "url": "git+https://github.com/hobbyquaker/nextport.git"
   },
   "keywords": [
     "listen",
@@ -17,9 +17,9 @@
   "author": "Sebastian Raff <hq@ccu.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hobbyquaker/getport/issues"
+    "url": "https://github.com/hobbyquaker/nextport/issues"
   },
-  "homepage": "https://github.com/hobbyquaker/getport#readme",
+  "homepage": "https://github.com/hobbyquaker/nextport#readme",
   "engines": {
     "node": ">=6.0.0"
   },

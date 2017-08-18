@@ -1,19 +1,19 @@
-# getport
+# nextport
 
 > Node.js module to get the next free port
 
 ## Install
 
 ```
-$ npm install getport
+$ npm install nextport
 ```
 
 ## Usage
 
 ```javascript
-const getPort = require('getport');
+const nextPort = require('getport');
 
-getPort(2000, port => {
+nextPort(2000, port => {
     if (port) {
         console.log('next free port:', port);
     } else {
