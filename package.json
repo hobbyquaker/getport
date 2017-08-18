@@ -1,0 +1,27 @@
+{
+  "name": "getport",
+  "version": "1.0.0",
+  "description": "get the next free port",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobbyquaker/getport.git"
+  },
+  "keywords": [
+    "listen",
+    "port"
+  ],
+  "author": "Sebastian Raff <hq@ccu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobbyquaker/getport/issues"
+  },
+  "homepage": "https://github.com/hobbyquaker/getport#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
