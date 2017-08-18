@@ -11,7 +11,7 @@ $ npm install nextport
 ## Usage
 
 ```javascript
-const nextPort = require('getport');
+const nextPort = require('nextport');
 
 nextPort(2000, port => {
     if (port) {
